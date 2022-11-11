@@ -1,62 +1,66 @@
 [
   {
     "id": 1,
-    "subjectName": "json-server"
+    "subjectName": "Eğitimde Kapsayıcılık - 1"
   },
   {
     "id": 2,
-    "subjectName": "json-server1"
+    "subjectName": "Eğitim Araştırmaları ve Ar-Ge Çalışmaları - 1"
   },
   {
     "id": 3,
-    "subjectName": "json-server2"
+    "subjectName": "Eğitim Araştırmaları ve Ar-Ge Çalışmaları - 1"
   },
   {
     "id": 4,
-    "subjectName": "json-server3"
+    "subjectName": "Güvenli Okul ve Okul Güvenliği - 1"
   },
   {
     "id": 5,
-    "subjectName": "json-server4"
+    "subjectName":  "Güvenli Okul ve Okul Güvenliği - 2"
   },
   {
     "id": 6,
-    "subjectName": "json-server5"
+    "subjectName": "Sosyal Etkileşim ve İletişim - 1"
   },
   {
     "id": 7,
-    "subjectName": "json-server6"
+    "subjectName": "Sosyal Etkileşim ve İletişim - 2"
   },
   {
     "id": 8,
-    "subjectName": "json-server7"
+    "subjectName": "Sosyal Etkileşim ve İletişim - 3"
   },
   {
     "id": 9,
-    "subjectName": "json-server8"
+    "subjectName": "Dijital Yetkinlik"
   },
   {
     "id": 10,
-    "subjectName": "json-server9"
+    "subjectName": "Çevre Eğitimi ve İklim Değişikliği"
   },
   {
     "id": 11,
-    "subjectName": "json-server10"
+    "subjectName": "Özel Eğitim ve Rehberlik - 1"
   },
   {
     "id": 12,
-    "subjectName": "json-server11"
+    "subjectName": "Özel Eğitim ve Rehberlik - 2"
   },
   {
     "id": 13,
-    "subjectName": "json-server12"
+    "subjectName": "Öğrenme ve Öğretme Süreçleri - 1"
   },
   {
     "id": 14,
-    "subjectName": "json-server13"
+    "subjectName": "Öğrenme ve Öğretme Süreçleri - 2"
   },
   {
     "id": 15,
-    "subjectName": "json-server14"
+    "subjectName":  "Ölçme ve Değerlendirme - 1"
+  },
+  {
+    "id": 15,
+    "subjectName":  "Ölçme ve Değerlendirme - 2"
   }
 ]
