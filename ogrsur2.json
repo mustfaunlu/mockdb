@@ -1,5 +1,4 @@
-{
-  "ogrsur2": [
+[
   {
     "question": "\"Bir öğretmen dersini işlerken önce bilgi düzeyindeki kavramları sınıfa anlatıyor ve her bir kavram ile ilgili yaşamdan en az iki örnek veriyor\" bu öğretmenin izlemeye çalıştığı strateji hangisidir?",
     "questionHead": "",
@@ -201,4 +200,3 @@
     "correctAnswer": "E) Örnek olay"
   }
 ]
-}
