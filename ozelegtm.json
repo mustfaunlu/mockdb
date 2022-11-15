@@ -1,5 +1,4 @@
-{
-  "ozelegtm": [
+[
   {
     "question":"Bir lisede rehber öğretmen olan Zeki Bey, okuldaki sınıf rehber öğretmenlerinin rehberlik dersine yeterli önemi vermediğinden ve verdiği önerileri eleştirmelerinden şikayetçidir. Ayrıca velilerden de beklediği ilgiyi görememektedir.",
     "questionHead":"Bu durum, aşağıdaki rehberlik ilkelerinden hangisinin uygulanmasını zorlaştırır?",
@@ -202,4 +201,3 @@
     }
 
 ]
-}
