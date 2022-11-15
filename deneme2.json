@@ -1,5 +1,4 @@
-{
-  "deneme2": [
+[
   {
     "question":"Eğitimde ölçme aşağıdaki sorulardan hangisine öncelikle cevap verir?",
     "questionHead":"",
@@ -181,4 +180,3 @@
     "correctAnswer":"E) Yaptığı resimlerden çocuğun yeteneğini saptamak"
   }
 ]
-}
