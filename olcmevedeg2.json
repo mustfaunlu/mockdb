@@ -1,5 +1,4 @@
-{
-  "olcmevedeg2": [
+[
       {
         "question": "Aşağıdaki şıklardan hangisi bir ölçme kuralı olabilir?",
         "questionHead": "",
@@ -200,8 +199,4 @@
         "answerE": "E) Bağıl ölçüt",
         "correctAnswer": "A) Ölçme"
       }
-
-
-
   ]
-}
