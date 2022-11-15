@@ -1,5 +1,4 @@
-{
-  "guvokul2": [
+[
     {
       "question": "Sağlıklı okulda okulun eğitsel standartlarını sürdürebilmesi için çevresiyle etkili şekilde başa çıkabilme becerisine sahip olması, sağlıklı okulun hangi boyutunu ifade etmektedir?",
       "questionHead": "",
@@ -231,4 +230,3 @@
       "correctAnswer": "B) III ve VI"
     }
   ]
-}
