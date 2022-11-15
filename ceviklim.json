@@ -1,5 +1,4 @@
-{
-  "ceviklim": [
+[
   {
     "question":"70 - 80 Desibel arası aşağıdakilerden hangi gruba girer?",
     "questionHead":"",
@@ -230,6 +229,4 @@
       "answerE": "E) Tasarruf tedbirlerinin başlatılması ve israfın önlenmeye çalışılması.",
       "correctAnswer": "E) Tasarruf tedbirlerinin başlatılması ve israfın önlenmeye çalışılması."
     }
-
 ]
-}
