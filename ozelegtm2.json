@@ -1,5 +1,4 @@
-{
-  "ozelegtm2": [
+[
   {
     "question":"Bir rehber öğretmen önceki yıllara kıyasla öğrencilerin özelliklerinin ve sorunlarının farklılaştığını gözlemlemiştir. Buna dayanarak rehberlik programında bazı güncellemeler yapmıştır.",
     "questionHead":"Bu rehber öğretmen, hangi rehberlik ilkesi doğrultusunda hareket etmiştir?",
@@ -190,6 +189,4 @@
       "answerE":"E) Olduğu gibi davranmak.",
       "correctAnswer":"D) Çevresini umursamazca davranmak."
     }
-
 ]
-}
