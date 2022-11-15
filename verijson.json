@@ -1,0 +1,15 @@
+{
+  "olcmevedeg2": [
+    {
+      "question": "$('.card-body').text()",
+      "questionHead": "$('.card-body').text()",
+      "answerA": "$('.card-body+ .mr-2 .answer__item').text()",
+      "answerB": "$('.mr-2:nth-child(4) .answer__item').text()",
+      "answerC": "$('.mr-2:nth-child(5) .answer__item').text()",
+      "answerD": "$('.mr-2:nth-child(6) .answer__item').text()",
+      "answerE": "$('.mr-2:nth-child(7) .answer__item').text()",
+      "correctAnswer": "$('.answer__item--is-correct').text()"
+    }
+  ]
+}
+
