@@ -1,5 +1,4 @@
-{
-  "olcmevedeg": [
+[
       {
         "question": "Teknoloji ve Tasarım dersinde öğretmen 25 soruluk bir test uygulamış ve sondan 5 sorunun seçeneklerindeki hatayı sınavdan sonra fark etmiştir. Bu nedenle bu sorular sınıftaki tüm öğrenciler tarafından yanlış cevaplandırılmıştır. Öğretmen bu hatasını telafi edebileceği düşüncesiyle tüm öğrencilere son 5 sorudan puan vermiştir.",
         "questionHead": "Bu öğretmenin ölçme sonuçlarına karıştırdığı hata türü hangisidir?",
@@ -200,8 +199,4 @@
         "answerE": "E) Bağıl değerlendirme",
         "correctAnswer": "A) Summatif değerlendirme"
       }
-
-
-
   ]
-}
