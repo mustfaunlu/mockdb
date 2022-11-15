@@ -1,5 +1,4 @@
-{
-  "ogrsur": [
+[
     {
       "question": "\"Karadeniz Bölgesi ile ilgili temel bilgileri öğrendikten sonra öğrenciye eski bir harita gösterilebilir ve öğrencinin Karadeniz’deki bu limanlardan hangisinin en önemli liman hâline gelmiş olabileceği konusundaki tahminleri alınır. Daha sonra da öğrenci bu tahminlerinin doğru olup olmadığını bilimsel olarak araştırabilir.\" Öğretmenin burada kullandığı öğretim stratejisi aşağıdakilerden hangisidir?",
       "questionHead": "",
@@ -201,4 +200,3 @@
       "correctAnswer": "E) I, III ve IV"
     }
   ]
-}
