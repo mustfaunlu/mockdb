@@ -1,0 +1,64 @@
+{
+  "id": 1,
+  "name": "Mustafa",
+  "surname": "ÜNLÜ",
+  "age": 25,
+  "description": "<a style=\"background-color: transparent; display: inline-block; padding: 0;\"><img src=\"https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro+&weight=100&size=40&duration=3001&pause=500&color=000000&center=true&vCenter=true&width=900&height=50&lines=Hello%2C+I'm+Mustafa+%C3%9CNL%C3%9C;I'm+Android+Developer+;Welcome+to+my+Autobiography+App\" /> </a>",
+  "about": "Hello, my name is Mustafa ÜNLÜ. I am striving to improve myself in Android app development and I am 25 years old. I am improving myself in Android application development with Kotlin and I am proficient in basic programming principles in this area. I also have knowledge of technologies used in mobile application development. I try to constantly improve myself and follow the latest trends in the industry. I try to acquire knowledge from Android and Kotlin technical documentation. Moreover, I am open to learning and developing myself. I would be happy to collaborate and gain experience by participating in projects to gain more experience in the industry.",
+  "image": "https://imgtr.ee/images/2023/04/28/JUVzR.png",
+  "job": "Android Developer",
+  "social": [
+    {
+      "image": "https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png",
+      "title": "Medium",
+      "link": "mustafaunlu.medium.com"
+    },
+    {
+      "image": "https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png",
+      "title": "Linkedin",
+      "link": "linkedin.com/in/unlumustafa"
+    },
+    {
+      "image": "https://i0.mail.com/mcom/110/4157110,pd=2,f=meta-reference/.webp",
+      "title": "Mail",
+      "link": "mustafaunlu@mail.com"
+    },
+    {
+      "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      "title": "Github",
+      "link": "github.com/mustfaunlu"
+    }
+  ],
+  "portfolio": [
+    {
+      "title": "Rick and Morty App",
+      "description": "This app follows MVVM architecture and uses Coroutines, Flow & LiveData with Android Architecture Components. It has a single-activity architecture with Jetpack Navigation and uses Android Hilt for dependency injection. Retrofit, Moshi, and Glide are used for networking and media management.",
+      "image": "https://i.hbrcdn.com/haber/2023/01/25/rick-and-morty-bitti-mi-final-mi-yapacak-rick-15584821_7870_amp.jpg"
+    },
+    {
+      "title": "Quiz App",
+      "description": "This Android app uses Coroutines, Flow & LiveData with Android Architecture Components. It has a single-activity architecture with Jetpack Navigation and uses Android Hilt, Retrofit, and Room. This library collection helps design robust, testable, and maintainable apps.",
+      "image": "https://play-lh.googleusercontent.com/ciWGJS_13VWG6gp1dcghYVHj3-ZPUt0VkrKln-GaErNtoz5n6J5MDC8INiUfg0KUaA"
+    },
+    {
+      "title": "Kotlin Learning Project",
+      "description": "This is a repository where I share my notes on the Kotlin language, and add new things that I am learning on a daily basis.",
+      "image": "https://www.jrebel.com/sites/default/files/image/2021-01/what%20is%20kotlin%20banner%20image.png"
+    },
+    {
+      "title": "Android Dokümantasyonu Türkçe Çeviri Projesi",
+      "description": "https://mustfaunlu.github.io/ adresinde Android Dokümantasyonu Türkçe Çeviri Projesi'ni yayınladım. Bu proje ile Android geliştirme alanında Türkçe kaynak eksikliğini gidermeyi amaçlıyorum.",
+      "image": "https://media.sketchfab.com/models/635ee1a708c54e78aa104386f2f64655/thumbnails/5595567369aa496291147171524d5226/bd5cf76cf8ef4705a0019f616bd09903.jpeg"
+    },
+    {
+      "title": "Autobiography App",
+      "description": "This app follows MVVM architecture and uses Coroutines, Flow & LiveData with Android Architecture Components. It has a single-activity architecture with Jetpack Navigation and uses Android Hilt for dependency injection. Retrofit, Moshi, and Glide are used for networking and media management.",
+      "image": "https://cdn.paperpile.com/guides/img/autobiography-illustr-400x400.png"
+    },
+    {
+      "title": "My Hackerrank Adventure",
+      "description": "I share my hackerrank solutions in this repository.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9z_cA4CQWlx8CTaaVuFh5eaw4pJKoByzADX-nrYkTQgpiJntM7P1dYb-Cf8rpB3ccm68&usqp=CAU"
+    }
+  ]
+}
