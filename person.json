@@ -34,31 +34,37 @@
       "title": "Rick and Morty App",
       "description": "This app follows MVVM architecture and uses Coroutines, Flow & LiveData with Android Architecture Components. It has a single-activity architecture with Jetpack Navigation and uses Android Hilt for dependency injection. Retrofit, Moshi, and Glide are used for networking and media management.",
       "image": "https://i.hbrcdn.com/haber/2023/01/25/rick-and-morty-bitti-mi-final-mi-yapacak-rick-15584821_7870_amp.jpg"
+      "link": "https://github.com/mustfaunlu/RickandMorty"
     },
     {
       "title": "Quiz App",
       "description": "This Android app uses Coroutines, Flow & LiveData with Android Architecture Components. It has a single-activity architecture with Jetpack Navigation and uses Android Hilt, Retrofit, and Room. This library collection helps design robust, testable, and maintainable apps.",
       "image": "https://play-lh.googleusercontent.com/ciWGJS_13VWG6gp1dcghYVHj3-ZPUt0VkrKln-GaErNtoz5n6J5MDC8INiUfg0KUaA"
+      "link": "https://github.com/mustfaunlu/quizApp"
     },
     {
       "title": "Kotlin Learning Project",
       "description": "This is a repository where I share my notes on the Kotlin language, and add new things that I am learning on a daily basis.",
       "image": "https://www.jrebel.com/sites/default/files/image/2021-01/what%20is%20kotlin%20banner%20image.png"
+      "link": "https://github.com/mustfaunlu/KotlinLearn"
     },
     {
       "title": "Android Dokümantasyonu Türkçe Çeviri Projesi",
       "description": "https://mustfaunlu.github.io/ adresinde Android Dokümantasyonu Türkçe Çeviri Projesi'ni yayınladım. Bu proje ile Android geliştirme alanında Türkçe kaynak eksikliğini gidermeyi amaçlıyorum.",
       "image": "https://media.sketchfab.com/models/635ee1a708c54e78aa104386f2f64655/thumbnails/5595567369aa496291147171524d5226/bd5cf76cf8ef4705a0019f616bd09903.jpeg"
+      "link": "https://github.com/mustfaunlu/mustfaunlu.github.io"
     },
     {
       "title": "Autobiography App",
       "description": "This app follows MVVM architecture and uses Coroutines, Flow & LiveData with Android Architecture Components. It has a single-activity architecture with Jetpack Navigation and uses Android Hilt for dependency injection. Retrofit, Moshi, and Glide are used for networking and media management.",
       "image": "https://cdn.paperpile.com/guides/img/autobiography-illustr-400x400.png"
+      "link": "https://github.com/mustfaunlu/AutobiographyApp"
     },
     {
       "title": "My Hackerrank Adventure",
       "description": "I share my hackerrank solutions in this repository.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9z_cA4CQWlx8CTaaVuFh5eaw4pJKoByzADX-nrYkTQgpiJntM7P1dYb-Cf8rpB3ccm68&usqp=CAU"
+      "link": "https://github.com/mustfaunlu/hackerRankKotlin"
     }
   ]
 }
